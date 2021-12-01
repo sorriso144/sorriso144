@@ -1,0 +1,128 @@
+body{
+    display: flow-root;
+}
+footer{
+    padding: 15px;
+    display: grid;
+    background-color: #f0f1f5;
+    width: auto;
+    height: 240px;
+    margin-top: 20px;
+}
+h2{
+    font-size: 16px;
+    font-weight: lighter;
+    display: inherit;
+    margin: 30px 0;
+}
+h3{
+    font-size: 16px;
+    font-weight: bold;
+    display: inherit;
+    margin-top: 32px;
+}                   
+h6{
+    font-size: xx-large;
+}
+h7{
+    font-size: 18px;
+    font-weight: bold;
+}
+.ter{
+    width: 200px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    font-weight: lighter;
+    text-align: end;
+    margin-top: 22px;
+}
+#valor{
+    font-weight: bold;
+    font-size: 44px;
+    color: rgb(128, 5 ,209);
+    border: none;
+    outline: none;
+}
+#name{
+    text-align: start;
+}
+#comprovante{
+    object-fit: fill;
+    margin-bottom: 100vh;
+}
+#continuar{
+    font-size: larger;
+    line-height: 1px;
+}
+.nu-logo{
+    margin: 10px;
+}
+.sdfgsdg{
+    padding: 16px;
+}
+.valor-container{
+    display: inline-flex;
+}
+.valor{
+    margin: 10px;
+}
+.nu-edit{
+    margin: 22px 6px 0 16px;
+}
+.m{
+    display: inline-flex;
+    margin: 16px 0 15px 12px;
+}
+.big{
+    display: -webkit-inline-flex;
+}
+.azsdf{
+    width: auto;
+    padding: 20px;
+}
+.btn-container{
+    display: flow-root;
+    position: absolute;
+    height: 64px;
+    background-color: initial;
+    margin: 10px 0 40px 0;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(240, 241, 243);
+}
+.btn{
+    padding: 28px;
+    color: #FFF;
+    background-color: rgb(128, 5 ,209);
+    height: 100%;
+    width: 100%;
+    border-radius: 36px;
+}
+.thth{
+    padding: 17px;
+}
+.wer{
+    width: 200px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    font-weight: bolder;
+    margin: 10px;
+    text-align: end;
+    margin-top: 0;
+}
+.x{
+    display: grid;
+    justify-content: end;
+}
+.box{
+    display: flex;
+}
+#timer{
+    border: none;
+    font-size: 16px;
+    font-weight: normal;
+}
